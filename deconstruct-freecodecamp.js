@@ -1,3 +1,5 @@
+// FreeCodeCamp Answer
+
 function getLength(str) {
     "use strict";
 
